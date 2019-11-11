@@ -10,6 +10,9 @@
 
         This script is tested against vCenter 6.7U1, please note that 
         there might be differences in other version
+        Note that this script is developed with PS Core and uses functionality
+        not present in the desktop version of PS (v 5>=). A different version of the
+        script that uses PS 5 can be found here, https://github.com/rumart/vmug-norway-dec-18
     .NOTES
         Author: Rudi Martinsen
         Created: 28/11-2018
