@@ -1,3 +1,4 @@
+ #Requires -Version 6.0
  <#
     .SYNOPSIS
         Script for outputting VCSA info to Influx

@@ -1,4 +1,5 @@
- <#
+#Requires -Version 6.0
+<#
     .SYNOPSIS
         Script for outputting vCenter storage info to Influx
     .DESCRIPTION
